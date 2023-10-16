@@ -1,3 +1,7 @@
 body{
   background:url(./../images/bookdryflower.jpg) no-repeat center center/cover;
+  opacity: 0.4;
+}
+.register{
+  background-color: white;
 }
