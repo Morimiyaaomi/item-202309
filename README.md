@@ -24,10 +24,8 @@
 [データベース定義書]（https://docs.google.com/spreadsheets/d/1zuKKCHV7Mjgkl9czVHCMqV8cMo3P1Ft4/edit#gid=2021495085）
 
 ## システム閲覧
-[アプリケーションページへ](https://test-item-management-202309-405431e04a8c.herokuapp.com/login)
+[アプリケーションページへ](https://item-202309-1ebd837418f6.herokuapp.com/login)
 
 ## テストアカウント情報
-メールアドレス：test@test.com
-パスワード：12345678
-# item-202309
-# item-202309
+メールアドレス：item@test.com
+パスワード：M6zcT9sSnfjH3UT
